@@ -1,0 +1,5 @@
+#+TITLE: Epistemology
+#+CREATED: [2020-10-12 Mon 14:54]
+#+LAST_MODIFIED: [2020-10-12 Mon 14:54]
+
+A philosophical field concerned with how one knows what one knows and what types of things can be used to justify beliefs.

@@ -1,0 +1,4 @@
+#+title: Org-roam
+#+roam_key: https://www.orgroam.com/manual/
+
+Implementation of the [[file:zettelkasten_method.org][Zettelkasten method]] in [[file:emacs.org][Emacs]] [[file:org_mode.org][Org-mode]], similar to [[file:roam_research.org][Roam research]].

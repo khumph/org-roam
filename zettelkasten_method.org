@@ -1,0 +1,6 @@
+#+title: Zettelkasten method
+#+roam_key: https://zettelkasten.de/posts/overview/
+
+Note-taking method. In paper form, uses a "slip-box" or "Zettelkasten" of small cards, each with a single concept on it. The concepts on each card are linked together.
+
+This method is an inspiration for [[file:roam_research.org][Roam Research]] and by extension [[file:org_roam.org][Org-roam]].

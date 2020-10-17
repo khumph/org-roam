@@ -1,0 +1,4 @@
+#+title: Epistemic modesty
+#+roam_key: https://forum.effectivealtruism.org/posts/WKPd79PESRGZHQ5GY/in-defence-of-epistemic-modesty
+
+The idea that in most cases one should base their beliefs on a consensus of experts, not valuing their own opinion or the opinion of whomever they find most persuasive more than any other opinion from an equally credible source.

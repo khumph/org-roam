@@ -1,0 +1,4 @@
+#+title: Roam research
+#+roam_key: https://roamresearch.com/
+
+A note-taking tool that uses links between note files to organize information, and uses these connections to facilitate discovering new insights, e.g., through visualizing a map of the connections between ideas.

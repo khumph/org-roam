@@ -1,0 +1,2 @@
+#+title: Org-mode
+#+roam_key: https://orgmode.org/
